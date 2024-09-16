@@ -1,4 +1,4 @@
-You can have a demo of the project at: https://colab.research.google.com/drive/1XbRKk-itYdtXZ0DFr6JfUcVGOm8Y26tO?usp=sharing
+You can have a live demo of the project at: https://colab.research.google.com/drive/1XbRKk-itYdtXZ0DFr6JfUcVGOm8Y26tO?usp=sharing
 
 
 I wrote a Python code for an URL shortener as part of my internship project with Codeclause.  
